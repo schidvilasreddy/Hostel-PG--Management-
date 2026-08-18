@@ -38,5 +38,5 @@ A primary focus of this project is the implementation of modern DevOps practices
 ### Steps to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
+   git clone [https://github.com/schidvilasreddy/Hostel-and-PG-Management.git](https://github.com/schidvilasreddy/Hostel-and-PG-Management.git)
+   cd Hostel-and-PG-Management
